@@ -1,0 +1,10 @@
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\bin\Debug\netcoreapp3.1\CustomCollectionLibrary.deps.json
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\bin\Debug\netcoreapp3.1\CustomCollectionLibrary.dll
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\bin\Debug\netcoreapp3.1\CustomCollectionLibrary.pdb
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.csproj.AssemblyReference.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.AssemblyInfoInputs.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.AssemblyInfo.cs
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.csproj.CoreCompileInputs.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.dll
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibrary\CustomCollectionLibrary\obj\Debug\netcoreapp3.1\CustomCollectionLibrary.pdb
