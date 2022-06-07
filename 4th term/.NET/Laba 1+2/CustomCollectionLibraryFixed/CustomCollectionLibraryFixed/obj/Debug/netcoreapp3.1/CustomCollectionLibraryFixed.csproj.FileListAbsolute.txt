@@ -1,0 +1,17 @@
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.exe
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.deps.json
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.runtimeconfig.json
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.runtimeconfig.dev.json
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.dll
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.pdb
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibrary.dll
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\bin\Debug\netcoreapp3.1\CustomCollectionLibrary.pdb
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.csproj.AssemblyReference.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.AssemblyInfoInputs.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.AssemblyInfo.cs
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.csproj.CoreCompileInputs.cache
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.csproj.CopyComplete
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.dll
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.pdb
+D:\Important\University\..GitHub\4th term\.NET\Laba 1+2\CustomCollectionLibraryFixed\CustomCollectionLibraryFixed\obj\Debug\netcoreapp3.1\CustomCollectionLibraryFixed.genruntimeconfig.cache
