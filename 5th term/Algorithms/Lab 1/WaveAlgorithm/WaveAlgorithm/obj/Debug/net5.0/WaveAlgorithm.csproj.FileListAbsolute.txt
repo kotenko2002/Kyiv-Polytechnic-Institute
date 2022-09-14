@@ -1,0 +1,16 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\bin\Debug\net5.0\WaveAlgorithm.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\refint\WaveAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\WaveAlgorithm.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\WaveAlgorithm\WaveAlgorithm\obj\Debug\net5.0\ref\WaveAlgorithm.dll
