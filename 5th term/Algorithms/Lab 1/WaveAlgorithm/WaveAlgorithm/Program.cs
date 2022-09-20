@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace WaveAlgorithm
 {
@@ -6,38 +8,52 @@ namespace WaveAlgorithm
     {
         static void Main(string[] args)
         {
-            var matrix = Constants.matrix1;
+            Console.WriteLine("Press Enter to start");
+            Console.ReadKey();
 
-            PrintMatrix(matrix);
+            var matrix = Constants.matrix2;
+
+            WaveAlgorithm.PrintMatrix(matrix);
+
+            List<(int, int, string)> answerPoints = new List<(int, int, string)>();
+            answerPoints.AddRange(WaveAlgorithm.Algorithm(matrix));
+            answerPoints.Reverse();
+
+            Console.ReadKey();
+            PrintSolvedMatrix(matrix, answerPoints);
+            Console.ReadKey();
         }
-
-        public static void Algorithm()
+        public static void PrintSolvedMatrix(string[,] matrix, List<(int, int, string)> answerPoints)
         {
+            for (int p = 0; p < answerPoints.Count; p++)
+            {
+                matrix[answerPoints[p].Item1, answerPoints[p].Item2] = $"{answerPoints[p].Item3}";
+            }
 
-        }
-
-        public static void PrintMatrix(char[,] matrix)
-        {
+            Console.Clear();
+           
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    if (matrix[i,j] == ' ') 
+                    if (matrix[i, j] == " ")
                         Console.BackgroundColor = ConsoleColor.Black;
-                    else if(matrix[i,j] == '%')
+                    else if (matrix[i, j] == "%")
                         Console.BackgroundColor = ConsoleColor.Blue;
-                    else if (matrix[i, j] == 'S')
-                        Console.BackgroundColor = ConsoleColor.Yellow;
-                    else
-                        Console.BackgroundColor = ConsoleColor.White;
+                    else if (answerPoints.Contains((i, j, matrix[i, j])))
+                        Console.BackgroundColor = ConsoleColor.Red;
 
-                    Console.Write("  ");
+                    if (matrix[i, j] == "%")
+                        Console.Write("  ");
+                    else if (matrix[i, j].Length == 1)
+                        Console.Write($"{matrix[i, j]} ");
+                    else
+                        Console.Write($"{matrix[i, j]}");
                 }
+                Console.BackgroundColor = ConsoleColor.Black;
                 Console.WriteLine();
             }
-            Console.BackgroundColor = ConsoleColor.Black;
+            Console.WriteLine();
         }
-
-        
     }
 }
