@@ -1,0 +1,16 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\bin\Debug\net5.0\AStartAlgorithm.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\refint\AStartAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\ref\AStartAlgorithm.dll

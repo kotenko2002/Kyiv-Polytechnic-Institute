@@ -11,17 +11,23 @@ namespace WaveAlgorithm
             Console.WriteLine("Press Enter to start");
             Console.ReadKey();
 
-            var matrix = Constants.matrix2;
+            var matrix = Constants.matrix3;
 
             WaveAlgorithm.PrintMatrix(matrix);
 
-            List<(int, int, string)> answerPoints = new List<(int, int, string)>();
-            answerPoints.AddRange(WaveAlgorithm.Algorithm(matrix));
-            answerPoints.Reverse();
+            try
+            {
+                List<(int, int, string)> answerPoints = WaveAlgorithm.Algorithm(matrix);
 
-            Console.ReadKey();
-            PrintSolvedMatrix(matrix, answerPoints);
-            Console.ReadKey();
+                Console.ReadKey();
+                PrintSolvedMatrix(matrix, answerPoints);
+                Console.ReadKey();
+            }
+            catch (Exception)
+            {
+                Console.Clear();
+                Console.WriteLine("Шлях не знайдено");
+            }
         }
         public static void PrintSolvedMatrix(string[,] matrix, List<(int, int, string)> answerPoints)
         {

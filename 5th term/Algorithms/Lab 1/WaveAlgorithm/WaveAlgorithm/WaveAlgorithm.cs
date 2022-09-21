@@ -39,7 +39,11 @@ namespace WaveAlgorithm
                 }
             }
 
-            return list;
+            List<(int, int, string)> resultList = new List<(int, int, string)>();
+            resultList.AddRange(list);
+            resultList.Reverse();
+
+            return resultList;
         }
         public static string[,] BFS(string[,] board, string prevValue)
         {
