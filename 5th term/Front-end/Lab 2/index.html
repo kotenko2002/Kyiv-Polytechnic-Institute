@@ -3,20 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="styles.css" />
-    <title>Котенко Дмитро Олександрович/ІТ-02/Лаба-1/Варіант-84</title>
+    <title>Котенко Дмитро Олександрович/ІТ-02/Лаба-2/Варіант-84</title>
+
+    <style type="text/css">
+        .table {
+            margin-top: 5%;
+        }
+
+        table {
+            border-collapse: collapse;
+            border: 2px solid rgb(0, 0, 0);
+        }
+
+        td, th {
+            border: 1px solid rgb(0, 0, 0);
+            padding: 15px;
+        }
+
+        td {
+            text-align: center;
+        }
+
+        tbody tr:nth-child(1){
+            background-color: #9933FF;
+        }
+
+        tbody tr:nth-child(1):hover{
+            color: #ffffff;
+            background: #0080FF;
+        }
+
+        tbody tr:nth-child(2){
+            background-color: #FFFF33;
+        }
+
+        tbody tr:nth-child(2):hover{
+            color: #ffffff;
+            background: #FF9933;
+        }
+    </style>
 </head>
     <body>
-        <div class="sss">
-            Hello world!
-            <p>
-                Hello world!
-            </p>
-            <p>
-                <p>Hello man!</p>
-            </p>
-            <div>
-                <p>Hello world!</p>
+        <div class="table">
+            <table>
+                <tr>
+                    <td >Котенко</td>
+                    <td>Дмитро</td>
+                    <td rowspan="2">Олександрович</td>
+                    <td></td>
+                    <td rowspan="2"></td>
+                </tr>
+                <tr>
+                    <td colspan="2">ІТ-02</td>
+                    <td>Лаба-2 вар.84(4)</td>
+                </tr>
+                <tr>
+                    <td colspan="2"></td>
+                    <td colspan="3"></td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="pictures">
+            <div class="picture1">
+                <div class="vertical_line_p"></div>
+                <div class="horizontal_line_p"></div>
+                <div class="outer_black_circle_p">
+                    <div class="white_circle_p">
+                        <div class="inner_black_circle_p"></div>
+                    </div>
+                </div>
             </div>
+            <h3>position</h3>
+
+            <div class="buffer"></div>
+
+            <div>
+                <div class="vertical_line_t"></div>
+                <div class="horizontal_line_t"></div>
+                <div class="outer_black_circle_t">
+                    <div class="white_circle_t">
+                        <div class="inner_black_circle_t"></div>
+                    </div>
+                </div>
+            </div>
+            <h3>transform</h3>
         </div>
     </body>
 </html>

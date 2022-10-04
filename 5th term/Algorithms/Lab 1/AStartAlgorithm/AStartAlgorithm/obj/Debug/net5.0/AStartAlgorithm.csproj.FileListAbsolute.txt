@@ -10,7 +10,7 @@ D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgori
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.AssemblyInfo.cs
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.csproj.CoreCompileInputs.cache
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.dll
-D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\refint\AStartAlgorithm.dll
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.pdb
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\AStartAlgorithm.genruntimeconfig.cache
 D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\ref\AStartAlgorithm.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 1\AStartAlgorithm\AStartAlgorithm\obj\Debug\net5.0\refint\AStartAlgorithm.dll

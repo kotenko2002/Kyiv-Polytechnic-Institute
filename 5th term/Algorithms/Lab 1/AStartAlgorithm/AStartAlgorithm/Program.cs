@@ -12,7 +12,7 @@ namespace AStartAlgorithm
             //Console.WriteLine("Press Enter to start");
             //Console.ReadKey();
 
-            var matrix = Constants.matrix4;
+            var matrix = Constants.matrix3;
 
             AStarAlgorithm.PrintMatrix(matrix);
 

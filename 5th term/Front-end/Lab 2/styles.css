@@ -1,3 +1,124 @@
-.sss>p {
-    background-color: aqua;
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pictures {
+    margin: 10% 0 0 8%;
+    display: flex;
+}
+
+.picture1 {
+    position: relative;
+}
+
+.outer_black_circle_p, .inner_black_circle_p,
+.vertical_line_p, .horizontal_line_p,
+.outer_black_circle_t, .inner_black_circle_t,
+.vertical_line_t, .horizontal_line_t {
+    background-color: black;
+}
+
+.outer_black_circle_p, .inner_black_circle_p, .white_circle_p,
+.outer_black_circle_t, .inner_black_circle_t, .white_circle_t {
+    border-radius: 50%;
+}
+
+/* position */
+
+.outer_black_circle_p {
+    width: 140px;
+    height: 140px;
+
+    position: relative;
+}
+
+.white_circle_p {
+    background-color: white;
+
+    width: 90px;
+    height: 90px;
+
+    position: absolute;
+    top: 18%;
+    left: 18%;
+}
+
+.inner_black_circle_p {
+    width: 40px;
+    height: 40px;
+
+    position: absolute;
+    top: 28%;
+    left: 28%;
+}
+
+.vertical_line_p {
+    width: 6px;
+    height: 180px;
+
+    position: absolute;
+    bottom: -20px;
+    left: 67px;
+
+    z-index: 1;
+}
+
+.horizontal_line_p {
+    width: 180px;
+    height: 6px;
+
+    position: absolute;
+    bottom: 67px;
+    left: -20px;
+
+    z-index: 1;
+}
+
+.buffer {
+    width: 100px;
+}
+
+/* transform */
+
+.outer_black_circle_t {
+    width: 140px;
+    height: 140px;
+}
+
+.white_circle_t {
+    background-color: white;
+
+    width: 90px;
+    height: 90px;
+
+    transform: translate(25px, 25px);
+}
+
+.inner_black_circle_t {
+    width: 40px;
+    height: 40px;
+
+    transform: translate(25px, 25px);
+}
+
+.vertical_line_t {
+    width: 6px;
+    height: 180px;
+
+    position: fixed;
+    transform: translate(67px, -20px);
+
+    z-index: 1;
+}
+
+.horizontal_line_t {
+    width: 180px;
+    height: 6px;
+
+    position: fixed;
+    transform: translate(-20px, 67px);
+
+    z-index: 1;
 }

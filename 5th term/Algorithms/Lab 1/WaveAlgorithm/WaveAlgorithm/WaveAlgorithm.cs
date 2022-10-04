@@ -51,7 +51,7 @@ namespace WaveAlgorithm
 
             List<(int, int)> list = new List<(int, int)>();
             for (int i = 0; i < board.GetLength(0); i++)
-                for (int j = 0; j < board.GetLength(0); j++)
+                for (int j = 0; j < board.GetLength(1); j++)
                     if (board[i, j] == prevValue) list.Add((i, j));
 
             string[,] buffMatrix = new string[board.GetLength(0), board.GetLength(1)];
@@ -75,7 +75,7 @@ namespace WaveAlgorithm
             }
 
             for (int i = 0; i < buffMatrix.GetLength(0); i++)
-                for (int j = 0; j < buffMatrix.GetLength(0); j++)
+                for (int j = 0; j < buffMatrix.GetLength(1); j++)
                     if (buffMatrix[i, j] == " ")
                     {
                         Console.Clear();
@@ -91,7 +91,7 @@ namespace WaveAlgorithm
             (int, int) start = (0,0), goal = (0, 0);
             for (int i = 0; i < board.GetLength(0); i++)
             {
-                for (int j = 0; j < board.GetLength(0); j++)
+                for (int j = 0; j < board.GetLength(1); j++)
                 {
                     if(board[i,j] == "S") start = (i,j);
                     if(board[i,j] == "E") goal = (i,j);
