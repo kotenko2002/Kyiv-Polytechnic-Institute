@@ -11,7 +11,7 @@ namespace WaveAlgorithm
             Console.WriteLine("Press Enter to start");
             Console.ReadKey();
 
-            var matrix = Constants.matrix5;
+            var matrix = Constants.matrix3;
 
             WaveAlgorithm.PrintMatrix(matrix);
 
