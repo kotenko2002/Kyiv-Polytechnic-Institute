@@ -1,0 +1,22 @@
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\appsettings.Development.json
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\appsettings.json
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.exe
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.deps.json
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.dll
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\bin\Debug\net5.0\Lab 1.pdb
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\scopedcss\bundle\Lab 1.styles.css
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\staticwebassets\Lab 1.StaticWebAssets.Manifest.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.RazorTargetAssemblyInfo.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.dll
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\refint\Lab 1.dll
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.pdb
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\Lab 1.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Back-end\Lab 1\Lab 1\obj\Debug\net5.0\ref\Lab 1.dll
