@@ -1,9 +1,7 @@
-﻿using Lab_1.Data;
-using Lab_1.Models;
-using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using System.Threading.Tasks;
+using Lab_1.Models;
+using Lab_1.Data;
 
 namespace Lab_1.Controllers
 {
@@ -11,6 +9,21 @@ namespace Lab_1.Controllers
     [Route("api/user")]
     public class UserController : ControllerBase
     {
-        // Створення користувача
+        [HttpPost]
+        public ActionResult AddUser([FromBody] User user)
+        {
+            if (user == null)
+            {
+                return BadRequest("Empty request body");
+            }
+
+            if (DbContext.Users.Any(item => item.Id == user.Id))
+            {
+                return BadRequest("User with such Id already exists");
+            }
+
+            DbContext.Users.Add(user);
+            return Ok("Success");
+        }
     }
 }

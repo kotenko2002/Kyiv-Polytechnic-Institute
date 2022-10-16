@@ -1,5 +1,5 @@
-﻿using Lab_1.Models;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using Lab_1.Models;
 using System;
 
 namespace Lab_1.Data
@@ -25,11 +25,12 @@ namespace Lab_1.Data
         public static List<Record> Records { get; set; } = new List<Record>()
         {
             new Record(){Id = 1, UserId = 1, CategoryId = 1, CreatedOnUtc = GetRandomDate(), Sum = 250},
-            new Record(){Id = 2, UserId = 1, CategoryId = 2, CreatedOnUtc = GetRandomDate(), Sum = 100},
-            new Record(){Id = 3, UserId = 2, CategoryId = 3, CreatedOnUtc = GetRandomDate(), Sum = 400},
-            new Record(){Id = 4, UserId = 2, CategoryId = 4, CreatedOnUtc = GetRandomDate(), Sum = 175},
-            new Record(){Id = 5, UserId = 2, CategoryId = 5, CreatedOnUtc = GetRandomDate(), Sum = 25},
-            new Record(){Id = 6, UserId = 3, CategoryId = 1, CreatedOnUtc = GetRandomDate(), Sum = 125}
+            new Record(){Id = 2, UserId = 1, CategoryId = 1, CreatedOnUtc = GetRandomDate(), Sum = 750},
+            new Record(){Id = 3, UserId = 1, CategoryId = 2, CreatedOnUtc = GetRandomDate(), Sum = 100},
+            new Record(){Id = 4, UserId = 2, CategoryId = 3, CreatedOnUtc = GetRandomDate(), Sum = 400},
+            new Record(){Id = 5, UserId = 2, CategoryId = 4, CreatedOnUtc = GetRandomDate(), Sum = 175},
+            new Record(){Id = 6, UserId = 2, CategoryId = 5, CreatedOnUtc = GetRandomDate(), Sum = 25},
+            new Record(){Id = 7, UserId = 3, CategoryId = 1, CreatedOnUtc = GetRandomDate(), Sum = 125}
         };
 
         private static DateTime GetRandomDate()
