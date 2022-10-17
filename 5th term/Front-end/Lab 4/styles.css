@@ -1,0 +1,45 @@
+.change-color {
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 38, 255);
+}
+
+/* Task 2 */
+.added-img {
+    width: 1080px;
+}
+  
+.deletable-img, .undeletable-img {
+    width: 1080px;
+    overflow: hidden;
+}
+
+.picture-button {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.picture-button>button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#add {
+    background-color: rgb(46, 165, 42);
+}
+
+#zoom-in {
+    background-color: rgb(42, 61, 165);
+}
+
+#zoom-out {
+    background-color: rgb(42, 61, 165);
+}
+
+#delete {
+    background-color: brown;
+}
