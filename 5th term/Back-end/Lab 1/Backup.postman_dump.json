@@ -1,0 +1,215 @@
+{
+	"version": 1,
+	"collections": [
+		{
+			"id": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+			"uid": "0-ad02d770-3cc9-46e0-8403-cca6969eba9e",
+			"name": "Lab 1",
+			"description": null,
+			"auth": null,
+			"events": null,
+			"variables": [],
+			"order": [
+				"901cad85-b528-4a1a-83af-44618d0ed9f9",
+				"9d6c86b6-9537-419b-b1fb-504eb5faf938",
+				"7096403a-da20-47b0-8f02-652631772ac1",
+				"e59693fb-cc4e-4972-ae51-f6a452d3a0c2",
+				"e29175c3-0f4a-44c3-ba76-e997492c5004",
+				"acd813f3-3387-4cc4-a041-6d1f2a4b1ceb"
+			],
+			"folders_order": [],
+			"protocolProfileBehavior": {},
+			"createdAt": "2022-10-16T11:05:11.455Z",
+			"folders": [],
+			"requests": [
+				{
+					"id": "7096403a-da20-47b0-8f02-652631772ac1",
+					"uid": "0-7096403a-da20-47b0-8f02-652631772ac1",
+					"name": "Get All Categories",
+					"url": "https://{{domain}}/api/category/items",
+					"description": null,
+					"data": null,
+					"dataOptions": {
+						"raw": {
+							"language": "json"
+						}
+					},
+					"dataMode": null,
+					"headerData": null,
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"pathVariables": {}
+				},
+				{
+					"id": "901cad85-b528-4a1a-83af-44618d0ed9f9",
+					"uid": "0-901cad85-b528-4a1a-83af-44618d0ed9f9",
+					"name": "Create User",
+					"url": "https://{{domain}}/api/user",
+					"description": null,
+					"data": [],
+					"dataOptions": {
+						"raw": {
+							"language": "json"
+						}
+					},
+					"dataMode": "raw",
+					"headerData": null,
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"rawModeData": "{\r\n    \"id\": 6,\r\n    \"name\": \"Pgidgsg\"\r\n}",
+					"pathVariables": {}
+				},
+				{
+					"id": "9d6c86b6-9537-419b-b1fb-504eb5faf938",
+					"uid": "0-9d6c86b6-9537-419b-b1fb-504eb5faf938",
+					"name": "Create Category",
+					"url": "https://{{domain}}/api/category",
+					"description": null,
+					"data": [],
+					"dataOptions": {
+						"raw": {
+							"language": "json"
+						}
+					},
+					"dataMode": "raw",
+					"headerData": null,
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"rawModeData": "{\r\n    \"id\": 10,\r\n    \"name\": \"Taxes\"\r\n}",
+					"pathVariables": {}
+				},
+				{
+					"id": "acd813f3-3387-4cc4-a041-6d1f2a4b1ceb",
+					"uid": "0-acd813f3-3387-4cc4-a041-6d1f2a4b1ceb",
+					"name": "Get Record by UserId and CategotyId",
+					"url": "https://{{domain}}/api/record/items/?userId=1&categoryId=1",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": null,
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [
+						{
+							"key": "userId",
+							"value": "1",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						},
+						{
+							"key": "categoryId",
+							"value": "1",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"pathVariables": {}
+				},
+				{
+					"id": "e29175c3-0f4a-44c3-ba76-e997492c5004",
+					"uid": "0-e29175c3-0f4a-44c3-ba76-e997492c5004",
+					"name": "Get Record by UserId",
+					"url": "https://{{domain}}/api/record/items/2",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": null,
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"pathVariables": {}
+				},
+				{
+					"id": "e59693fb-cc4e-4972-ae51-f6a452d3a0c2",
+					"uid": "0-e59693fb-cc4e-4972-ae51-f6a452d3a0c2",
+					"name": "Create Record",
+					"url": "https://{{domain}}/api/record",
+					"description": null,
+					"data": [],
+					"dataOptions": {
+						"raw": {
+							"language": "json"
+						}
+					},
+					"dataMode": "raw",
+					"headerData": null,
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"responses_order": [],
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "ad02d770-3cc9-46e0-8403-cca6969eba9e",
+					"rawModeData": "{\r\n    \"id\": 13,\r\n    \"userId\": 3,\r\n    \"categoryId\": 3,\r\n    \"createdOnUtc\": \"2022-08-13T00:11:11\",\r\n    \"sum\": 999\r\n}",
+					"pathVariables": {}
+				}
+			]
+		}
+	],
+	"environments": [
+		{
+			"id": "6b866ea0-b3ad-4ddb-92f4-c5db327f63dc",
+			"name": "Lab 1",
+			"values": [
+				{
+					"key": "domain",
+					"value": "lab1-dotnet.herokuapp.com",
+					"type": "default",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "9d67d809-e7a4-4f37-8bba-e40caa529b73",
+			"name": "My Workspace - globals",
+			"values": []
+		}
+	],
+	"headerPresets": [],
+	"globals": []
+}
