@@ -1,0 +1,71 @@
+.my-2 {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+  
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+  
+.flex-around-box {
+  display: flex;
+  justify-content: space-around;
+}
+  
+.flex-between-box {
+  display: flex;
+  justify-content: space-between;
+}
+  
+.reg-form {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.my-2 input {
+  width: 80%;
+  padding: 5px;
+  border-radius: 5px;
+}
+.a-center {
+  text-align: center;
+}
+  
+#response-block {
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+}
+  
+body {
+  text-align: center;
+  padding-top: 3em;
+  background-color: #9568B4;
+}
+  
+#run{
+  margin-top: 1em;
+}
+
+.colored-cell {
+  background-color: rgb(217, 255, 0);
+}
+
+#changing-table
+{
+  margin-top: 3em;
+  table-layout: auto;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+td{
+    border: 2px solid black;
+    height: 15px;
+}

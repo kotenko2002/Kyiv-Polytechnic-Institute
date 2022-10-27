@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Котенко Дмитро Олександрович/ІТ-02/Лаба-4/Варіант-84</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="a-center">
+        <h3>Завдання 1</h3>
+    </div>
+    <div class="flex-around-box">
+        <div class="reg-form">
+            <h3>Форма для заповнення</h3>
+            <form onsubmit="return submitForm()">
+                <div class="my-2">
+                    <input id="name" placeholder="ПІБ" required/>
+                </div>
+                
+                <div class="my-2">
+                    <input id="variant" type="number" required max="10" min="1" placeholder="Варіант" />
+                </div>
+                
+                <div class="my-2">
+                    <input id="group" placeholder="Група" required/>
+                </div>
+                
+                <div class="my-2">
+                    <input id="faculty" placeholder="Факультет" required />
+                </div>
+                
+                <div class="my-2">
+                    <input id="birthdate" placeholder="Дата народж." required/>
+                </div>
+                <button class="mx-auto">Надіслати</button>
+            </form>
+        </div>
+        <div>
+            <div id="response-block" style="display: none">
+                <h3>Результати</h3>
+                <div class="flex-between-box my-2">
+                    <div>ПІБ:</div>
+                    <div id="name-value"></div>
+                </div>
+                <div class="flex-between-box my-2">
+                    <div>Варіант: </div>
+                    <div id="variant-value"></div>
+                </div>
+                <div class="flex-between-box my-2">
+                    <div>Група:</div>
+                    <div id="group-value"></div>
+                </div>
+                <div class="flex-between-box my-2">
+                    <div>Факультет:</div>
+                    <div id="faculty-value"></div>
+                </div>
+                <div class="flex-between-box my-2">
+                    <div>Дата народження:</div>
+                    <div id="birthdate-value"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="a-center">
+        <h3>Завдання 2</h3>
+    </div>
+    <div>
+        <input type="color" id="palit" value="#ff0000">
+        <table id="changing-table"></table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
