@@ -36,7 +36,7 @@ namespace Prim_s_algorithm
             graph.AddEdge(v2, v4, 1);// red
             graph.AddEdge(v3, v1, 3);
             graph.AddEdge(v3, v5, 2);
-            //graph.AddEdge(v4, v2, 3);// red
+            graph.AddEdge(v4, v2, 3);// red
             graph.AddEdge(v4, v7, 3);
             graph.AddEdge(v5, v6, 5);
             graph.AddEdge(v5, v7, 2);
@@ -45,7 +45,7 @@ namespace Prim_s_algorithm
             graph.AddEdge(v6, v5, 2);
             graph.AddEdge(v6, v7, 1);// blue
             graph.AddEdge(v6, v8, 3);
-            //graph.AddEdge(v7, v6, 2);// blue
+            graph.AddEdge(v7, v6, 2);// blue
             graph.AddEdge(v7, v2, 1);
             graph.AddEdge(v8, v3, 2);
             graph.AddEdge(v8, v4, 2);
@@ -129,7 +129,7 @@ namespace Prim_s_algorithm
                         Console.BackgroundColor = ConsoleColor.Black;
                         Console.Write(newMatrix[i, j] + " ");
                     }
-                    else if(oldMatrix[i, j] != newMatrix[i, j])
+                    else if(oldMatrix[i, j] != newMatrix[i, j] && newMatrix[i, j] == 0)
                     {
                         Console.BackgroundColor = ConsoleColor.DarkRed;
                         Console.Write(newMatrix[i, j]);
@@ -137,9 +137,17 @@ namespace Prim_s_algorithm
                         Console.BackgroundColor = ConsoleColor.Black;
                         Console.Write(" ");
                     }
-                    else
+                    else if(oldMatrix[i, j] == newMatrix[i, j])
                     {
                         Console.BackgroundColor = ConsoleColor.DarkGreen;
+                        Console.Write(newMatrix[i, j]);
+
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Write(" ");
+                    }
+                    else
+                    {
+                        Console.BackgroundColor = ConsoleColor.DarkYellow;
                         Console.Write(newMatrix[i, j]);
 
                         Console.BackgroundColor = ConsoleColor.Black;
@@ -150,7 +158,6 @@ namespace Prim_s_algorithm
                 Console.WriteLine();
             }
         }
-
         private static void PrintVertexList(Graph graph, Vertex vertex)
         {
             Console.Write($"{vertex.Number}: ");

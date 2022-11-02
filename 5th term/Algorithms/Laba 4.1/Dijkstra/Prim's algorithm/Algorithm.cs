@@ -12,34 +12,33 @@ namespace Prim_s_algorithm
             skeletonGraph.AddVertex(graph.GetAllVertexesList());
 
             var skeletonList = new List<Vertex>() { skeletonGraph.GetAllVertexesList()[0] };
-
-            var generalList = new List<Vertex>();
-            generalList.AddRange(skeletonGraph.GetAllVertexesList().Except(skeletonList));
+            var generalList = new List<Vertex>(skeletonGraph.GetAllVertexesList().Except(skeletonList));
 
             while (generalList.Count != 0)
             {
-                Vertex from = null, to = null;
+                Vertex fromVertex = null, toVertex = null;
                 int weight = int.MaxValue;
 
-                for (int i = 0; i < skeletonList.Count; i++)
+                foreach (var skeletonItem in skeletonList)
                 {
-                    for (int j = 0; j < generalList.Count; j++)
+                    foreach (var generalItem in generalList)
                     {
-                        if(graph.GetAllEdgesList().Any(item => item.From == skeletonList[i] && item.To == generalList[j]))
+                        if (graph.GetAllEdgesList().Any(item => item.From == skeletonItem && item.To == generalItem))
                         {
-                            var edgeWeight = graph.GetWeightByVertexes(skeletonList[i], generalList[j]);
+                            var edgeWeight = graph.GetWeightByVertexes(skeletonItem, generalItem);
                             if (weight > edgeWeight)
                             {
-                                from = skeletonList[i];
-                                to = generalList[j];
+                                fromVertex = skeletonItem;
+                                toVertex = generalItem;
                                 weight = edgeWeight;
                             }
                         }
                     }
                 }
-                skeletonGraph.AddEdge(from, to, weight);
-                skeletonList.Add(to);
-                generalList.Remove(to);
+
+                skeletonGraph.AddEdge(fromVertex, toVertex, weight);
+                skeletonList.Add(toVertex);
+                generalList.Remove(toVertex);
             }
 
             return skeletonGraph;
