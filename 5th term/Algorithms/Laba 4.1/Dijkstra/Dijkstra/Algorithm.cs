@@ -17,17 +17,18 @@ namespace Dijkstra
             while (vertexArray.Any(item => item.IsVisited == false))
             {
                 int minValue = int.MaxValue;
+                bool flag = true;
                 for (int i = 0; i < vertexArray.Length; i++)
                 {
                     if (vertexArray[i].Value < minValue && !vertexArray[i].IsVisited)
                     {
                         minValue = vertexArray[i].Value;
                         curentVertex = vertexArray[i];
+                        flag = false;
                     }
                 }
 
-                if (curentVertex == start && start.IsVisited)
-                    break;
+                if (flag) break;
 
                 List<Vertex> listOfVertexes = graph.GetVertexListWithoutVisuted(curentVertex);
 
@@ -36,13 +37,10 @@ namespace Dijkstra
                     int weight = graph.GetWeightByVertexes(curentVertex, listOfVertexes[i]);
                     int index = Array.FindIndex(vertexArray, item => item == listOfVertexes[i]);
 
-                    if (curentVertex == start)
-                        vertexArray[index].Value = weight;
-                    else if (vertexArray[index].Value > curentVertex.Value + weight)
+                    if (vertexArray[index].Value > curentVertex.Value + weight)
                         vertexArray[index].Value = curentVertex.Value + weight;
                 }
                 curentVertex.IsVisited = true;
-                curentVertex = start;
             }
             return vertexArray;
         }
