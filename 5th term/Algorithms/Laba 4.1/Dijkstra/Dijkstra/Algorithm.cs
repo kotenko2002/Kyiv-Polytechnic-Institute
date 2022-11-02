@@ -18,12 +18,13 @@ namespace Dijkstra
             {
                 int minValue = int.MaxValue;
                 bool flag = true;
-                for (int i = 0; i < vertexArray.Length; i++)
+                
+                foreach (var vertex in vertexArray)
                 {
-                    if (vertexArray[i].Value < minValue && !vertexArray[i].IsVisited)
+                    if (vertex.Value < minValue && !vertex.IsVisited)
                     {
-                        minValue = vertexArray[i].Value;
-                        curentVertex = vertexArray[i];
+                        curentVertex = vertex;
+                        minValue = curentVertex.Value;
                         flag = false;
                     }
                 }
@@ -31,15 +32,15 @@ namespace Dijkstra
                 if (flag) break;
 
                 List<Vertex> listOfVertexes = graph.GetVertexListWithoutVisuted(curentVertex);
-
-                for (int i = 0; i < listOfVertexes.Count; i++)
+                foreach (var vertex in listOfVertexes)
                 {
-                    int weight = graph.GetWeightByVertexes(curentVertex, listOfVertexes[i]);
-                    int index = Array.FindIndex(vertexArray, item => item == listOfVertexes[i]);
+                    int weight = graph.GetWeightByVertexes(curentVertex, vertex);
+                    int index = Array.FindIndex(vertexArray, item => item == vertex);
 
                     if (vertexArray[index].Value > curentVertex.Value + weight)
                         vertexArray[index].Value = curentVertex.Value + weight;
                 }
+
                 curentVertex.IsVisited = true;
             }
             return vertexArray;
