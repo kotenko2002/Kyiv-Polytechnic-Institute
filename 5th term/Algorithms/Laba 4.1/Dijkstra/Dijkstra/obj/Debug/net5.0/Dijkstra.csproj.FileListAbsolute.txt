@@ -1,0 +1,16 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\refint\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\ref\Dijkstra.dll
