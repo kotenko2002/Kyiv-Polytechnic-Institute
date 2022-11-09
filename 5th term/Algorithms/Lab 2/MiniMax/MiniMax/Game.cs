@@ -63,7 +63,7 @@ namespace MiniMax
             lose.ForeColor = Color.Red;
             lose.Font = new Font("Arial", 28, FontStyle.Bold, GraphicsUnit.Point, ((Byte)(0)));
             lose.Top = 900;
-            lose.Left = 260;
+            lose.Left = 310;
             lose.AutoSize = true;
             Controls.Add(lose);
             lose.Visible = false;
@@ -73,7 +73,7 @@ namespace MiniMax
             win.ForeColor = Color.Green;
             win.Font = new Font("Arial", 30F, FontStyle.Bold, GraphicsUnit.Point, ((Byte)(0)));
             win.Top = 900;
-            win.Left = 270;
+            win.Left = 350;
             win.AutoSize = true;
             win.Visible = false;
             Controls.Add(win);
@@ -83,7 +83,7 @@ namespace MiniMax
             draw.ForeColor = Color.Orange;
             draw.Font = new Font("Arial", 30F, FontStyle.Bold, GraphicsUnit.Point, ((Byte)(0)));
             draw.Top = 900;
-            draw.Left = 320;
+            draw.Left = 350;
             draw.AutoSize = true;
             draw.Visible = false;
             Controls.Add(draw);
@@ -140,7 +140,7 @@ namespace MiniMax
                     for (int j = 0; j < Constants.mapSize; j++)
                         buttons[i, j].Enabled = false;
 
-                Height += 80;
+                Height += 60;
             }
             if (haveWinner)
             {

@@ -1,0 +1,16 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\refint\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\ref\Rabin-Karp.dll
