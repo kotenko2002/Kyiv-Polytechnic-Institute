@@ -20,7 +20,7 @@ namespace SimplexMethod
             // Створення єдиної таблиці
             decimal[,] tableau = MakeSimplexTableau(A, b, c, m, n);
 
-            // початкове рішення（b >= 0）の確認
+            // початкове рішення（b >= 0）
             for (int i = 0; i < m; i++)
             {
                 if (b[i] < 0)
