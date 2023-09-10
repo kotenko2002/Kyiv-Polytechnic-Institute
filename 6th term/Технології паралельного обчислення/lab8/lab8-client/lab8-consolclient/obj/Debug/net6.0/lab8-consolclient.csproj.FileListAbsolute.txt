@@ -1,0 +1,17 @@
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\lab8-consolclient.exe
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\lab8-consolclient.deps.json
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\lab8-consolclient.runtimeconfig.json
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\lab8-consolclient.dll
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\lab8-consolclient.pdb
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.csproj.AssemblyReference.cache
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.AssemblyInfoInputs.cache
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.AssemblyInfo.cs
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.csproj.CoreCompileInputs.cache
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.csproj.CopyComplete
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.dll
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\refint\lab8-consolclient.dll
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.pdb
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\lab8-consolclient.genruntimeconfig.cache
+D:\Me\University\Subjects\Java Multithreading\Parallel-computing-technologies-in-Java\lab8-consolclient\lab8-consolclient\obj\Debug\net6.0\ref\lab8-consolclient.dll

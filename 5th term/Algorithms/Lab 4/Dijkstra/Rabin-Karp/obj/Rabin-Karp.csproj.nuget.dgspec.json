@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj": {}
+    "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj": {}
   },
   "projects": {
-    "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj": {
+    "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj",
+        "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj",
         "projectName": "Rabin-Karp",
-        "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj",
+        "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Rabin-Karp\\Rabin-Karp.csproj",
         "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
-        "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Rabin-Karp\\obj\\",
+        "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Rabin-Karp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Админ\\AppData\\Roaming\\NuGet\\NuGet.Config",

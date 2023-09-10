@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
+      "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
       "projectName": "Dijkstra",
-      "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
+      "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
       "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
-      "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Dijkstra\\obj\\",
+      "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Dijkstra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Админ\\AppData\\Roaming\\NuGet\\NuGet.Config",

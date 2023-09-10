@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Prim's algorithm\\Prim's algorithm.csproj",
+      "projectUniqueName": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Prim's algorithm\\Prim's algorithm.csproj",
       "projectName": "Prim's algorithm",
-      "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Prim's algorithm\\Prim's algorithm.csproj",
+      "projectPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Prim's algorithm\\Prim's algorithm.csproj",
       "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
-      "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Laba 4.1\\Dijkstra\\Prim's algorithm\\obj\\",
+      "outputPath": "D:\\Me\\University\\..GitHub\\5th term\\Algorithms\\Lab 4\\Dijkstra\\Prim's algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Админ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
